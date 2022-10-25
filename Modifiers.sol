@@ -2,7 +2,7 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 
-contract Modificadores {
+contract Modifiers {
     
     address private owner;
     string private nombreOwner;
